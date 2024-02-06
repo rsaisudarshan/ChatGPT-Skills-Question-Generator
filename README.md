@@ -1,4 +1,3 @@
-```markdown
 # Question Generator using OpenAI's GPT-3.5 Turbo
 
 This Python script utilizes OpenAI's GPT-3.5 Turbo model to generate questions based on a specified skill or subject area and difficulty level. Users can interactively input the skill area and choose the difficulty level, and the script will generate a set of questions accordingly.
