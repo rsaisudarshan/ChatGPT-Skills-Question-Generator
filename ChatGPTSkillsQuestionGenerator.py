@@ -1,7 +1,7 @@
 import openai
 import json
 
-openai.api_key = "openn api key here"
+openai.api_key = "open api key here"
 def generate_questions(skill_area, difficulty_level="intermediate", num_questions=5):
     prompt = f"Generate {num_questions} {difficulty_level} level questions related to {skill_area}:"
 
